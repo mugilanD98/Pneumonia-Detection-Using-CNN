@@ -1,0 +1,6 @@
+tensorflow
+requests
+numpy
+Keras
+streamlit
+Pillow
